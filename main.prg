@@ -64,3 +64,6 @@ EXIT PROCEDURE _DOS_destruct()
 	SetCursor(IBM_rStats[ DOS_CUR ])
 	RETURN
 //
+
+PROCEDURE _PRC_MAIN()
+	RETURN
